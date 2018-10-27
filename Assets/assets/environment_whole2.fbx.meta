@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: aa6be62056879b146bb1ad062f6e2f61
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: fish
+    100004: fish2
+    100006: fish3
+    100008: fish4
+    100010: fish5
+    100012: fish6
+    100014: fish7
+    100016: gardenwalkway
+    100018: ground
+    100020: insidefloor
+    100022: pond1:pond_water1
+    100024: pondrocks
+    100026: rockpile
+    100028: rockpile1
+    100030: rockpile2
+    100032: rockpile3
+    100034: roof
+    100036: tree1
+    100038: tree3
+    100040: tree4
+    100042: tree5
+    100044: tree:tree
+    100046: walls_stairs
+    400000: //RootNode
+    400002: fish
+    400004: fish2
+    400006: fish3
+    400008: fish4
+    400010: fish5
+    400012: fish6
+    400014: fish7
+    400016: gardenwalkway
+    400018: ground
+    400020: insidefloor
+    400022: pond1:pond_water1
+    400024: pondrocks
+    400026: rockpile
+    400028: rockpile1
+    400030: rockpile2
+    400032: rockpile3
+    400034: roof
+    400036: tree1
+    400038: tree3
+    400040: tree4
+    400042: tree5
+    400044: tree:tree
+    400046: walls_stairs
+    2100000: solidtree_texture
+    2100002: ground_texture
+    2100004: lambert5
+    2100006: walls_texture
+    2100008: tree_pond_rocks_initialShadingGroup1
+    2100010: lambert1
+    2100012: eye_texture
+    2100014: fish_texture
+    2100016: water_texture
+    2300000: fish
+    2300002: fish2
+    2300004: fish3
+    2300006: fish4
+    2300008: fish5
+    2300010: fish6
+    2300012: fish7
+    2300014: gardenwalkway
+    2300016: ground
+    2300018: insidefloor
+    2300020: pond1:pond_water1
+    2300022: pondrocks
+    2300024: rockpile
+    2300026: rockpile1
+    2300028: rockpile2
+    2300030: rockpile3
+    2300032: roof
+    2300034: tree1
+    2300036: tree3
+    2300038: tree4
+    2300040: tree5
+    2300042: tree:tree
+    2300044: walls_stairs
+    3300000: fish
+    3300002: fish2
+    3300004: fish3
+    3300006: fish4
+    3300008: fish5
+    3300010: fish6
+    3300012: fish7
+    3300014: gardenwalkway
+    3300016: ground
+    3300018: insidefloor
+    3300020: pond1:pond_water1
+    3300022: pondrocks
+    3300024: rockpile
+    3300026: rockpile1
+    3300028: rockpile2
+    3300030: rockpile3
+    3300032: roof
+    3300034: tree1
+    3300036: tree3
+    3300038: tree4
+    3300040: tree5
+    3300042: tree:tree
+    3300044: walls_stairs
+    4300000: tree:tree
+    4300002: tree4
+    4300004: ground
+    4300006: tree1
+    4300008: tree3
+    4300010: roof
+    4300012: walls_stairs
+    4300014: rockpile
+    4300016: rockpile1
+    4300018: rockpile2
+    4300020: rockpile3
+    4300022: insidefloor
+    4300024: gardenwalkway
+    4300026: fish
+    4300028: fish2
+    4300030: fish3
+    4300032: fish4
+    4300034: fish5
+    4300036: fish6
+    4300038: fish7
+    4300040: tree5
+    4300042: pondrocks
+    4300044: pond1:pond_water1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
